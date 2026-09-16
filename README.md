@@ -1,6 +1,6 @@
 # 📈 Financial Market Correlations & Sentiment Analysis Pipeline
 
-An automated, distributed Data Engineering pipeline ingesting real-time financial market quotes (Bitcoin, Gold, Oil) and news sentiment to analyze macro-market correlations using a hybrid **Data Lakehouse** and **Data Warehouse** architecture.
+An automated, distributed Data Engineering pipeline ingesting financial market quotes (Bitcoin, Gold, Oil) and news sentiment to analyze macro-market correlations using a hybrid **Data Lakehouse** and **Data Warehouse** architecture.
 
 Developed by **Eliran Elizarov**.
 
