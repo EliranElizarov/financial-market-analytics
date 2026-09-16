@@ -1,4 +1,4 @@
-# 📈 Real-Time Market Correlations & Sentiment Analysis Pipeline
+# 📈 Financial Market Correlations & Sentiment Analysis Pipeline
 
 An automated, distributed Data Engineering pipeline ingesting real-time financial market quotes (Bitcoin, Gold, Oil) and news sentiment to analyze macro-market correlations using a hybrid **Data Lakehouse** and **Data Warehouse** architecture.
 
@@ -8,7 +8,7 @@ Developed by **Eliran Elizarov**.
 
 ## 📁 Repository Structure
 
-realtime-market-analytics/
+financial-market-analytics/
 ├── assets/                  # Architecture diagrams and verification screenshots
 │   ├── architecture.jpg
 │   ├── airflow_ui.jpg
@@ -97,8 +97,8 @@ ORDER BY execution_date DESC;
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/realtime-market-analytics.git
-cd realtime-market-analytics
+git clone https://github.com/YOUR_USERNAME/financial-market-analytics.git
+cd financial-market-analytics
 
 ### 2. Start Infrastructure Containers
 docker-compose up -d
