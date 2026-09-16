@@ -1,0 +1,15 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Local Parquet Data Dumps
+*.parquet
+historical_market_prices.parquet
+historical_market_news.parquet
+
+# OS & IDE Files
+.vscode/
+.idea/
+.DS_Store
